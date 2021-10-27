@@ -8,3 +8,9 @@ def getInputBetween(startval: int,endval: int)->int:
         except: 
             print("Ange ett tal tack!")
     
+
+
+if __name__ == "__main__":
+    print("Testing")
+    s = getInputBetween(0, 15)
+    print(x)
