@@ -17,4 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['goodtohave'],
-    install_requires=['requests'],
+    install_requires=['requests']
+)
